@@ -2,6 +2,14 @@
 
 ###
 
+<h2 align="left">A propos de nous</h2>
+
+###
+
+<p align="left">Nous sommes une équipe de trois développeurs ayant entrepris comme premier projet la création d'une application en HTML, CSS et JavaScript, réalisée en deux semaines dans le cadre de notre formation à la Wild Code School.</p>
+
+###
+
 <h2 align="left">A propos de l'application</h2>
 
 ###
